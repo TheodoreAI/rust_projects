@@ -1,0 +1,11 @@
+/Users/mateog.estrada/rusts/programs/program-one/target/debug/deps/time-b6dce9d88379ca8c.rmeta: /Users/mateog.estrada/.cargo/registry/src/index.crates.io-6f17d22bba15001f/time-0.1.45/src/lib.rs /Users/mateog.estrada/.cargo/registry/src/index.crates.io-6f17d22bba15001f/time-0.1.45/src/display.rs /Users/mateog.estrada/.cargo/registry/src/index.crates.io-6f17d22bba15001f/time-0.1.45/src/duration.rs /Users/mateog.estrada/.cargo/registry/src/index.crates.io-6f17d22bba15001f/time-0.1.45/src/parse.rs /Users/mateog.estrada/.cargo/registry/src/index.crates.io-6f17d22bba15001f/time-0.1.45/src/sys.rs
+
+/Users/mateog.estrada/rusts/programs/program-one/target/debug/deps/libtime-b6dce9d88379ca8c.rlib: /Users/mateog.estrada/.cargo/registry/src/index.crates.io-6f17d22bba15001f/time-0.1.45/src/lib.rs /Users/mateog.estrada/.cargo/registry/src/index.crates.io-6f17d22bba15001f/time-0.1.45/src/display.rs /Users/mateog.estrada/.cargo/registry/src/index.crates.io-6f17d22bba15001f/time-0.1.45/src/duration.rs /Users/mateog.estrada/.cargo/registry/src/index.crates.io-6f17d22bba15001f/time-0.1.45/src/parse.rs /Users/mateog.estrada/.cargo/registry/src/index.crates.io-6f17d22bba15001f/time-0.1.45/src/sys.rs
+
+/Users/mateog.estrada/rusts/programs/program-one/target/debug/deps/time-b6dce9d88379ca8c.d: /Users/mateog.estrada/.cargo/registry/src/index.crates.io-6f17d22bba15001f/time-0.1.45/src/lib.rs /Users/mateog.estrada/.cargo/registry/src/index.crates.io-6f17d22bba15001f/time-0.1.45/src/display.rs /Users/mateog.estrada/.cargo/registry/src/index.crates.io-6f17d22bba15001f/time-0.1.45/src/duration.rs /Users/mateog.estrada/.cargo/registry/src/index.crates.io-6f17d22bba15001f/time-0.1.45/src/parse.rs /Users/mateog.estrada/.cargo/registry/src/index.crates.io-6f17d22bba15001f/time-0.1.45/src/sys.rs
+
+/Users/mateog.estrada/.cargo/registry/src/index.crates.io-6f17d22bba15001f/time-0.1.45/src/lib.rs:
+/Users/mateog.estrada/.cargo/registry/src/index.crates.io-6f17d22bba15001f/time-0.1.45/src/display.rs:
+/Users/mateog.estrada/.cargo/registry/src/index.crates.io-6f17d22bba15001f/time-0.1.45/src/duration.rs:
+/Users/mateog.estrada/.cargo/registry/src/index.crates.io-6f17d22bba15001f/time-0.1.45/src/parse.rs:
+/Users/mateog.estrada/.cargo/registry/src/index.crates.io-6f17d22bba15001f/time-0.1.45/src/sys.rs:
